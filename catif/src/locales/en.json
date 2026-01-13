@@ -1,0 +1,106 @@
+{
+    "common": {
+        "loading": "Loading..."
+    },
+    "error": {
+        "title": "Out of Bounds",
+        "subtitle": "Sorry, the page you are looking for is not in our Dojo.",
+        "back_home": "Back to Home"
+    },
+    "construction": {
+        "title": "Page Under Construction",
+        "subtitle": "We are working to give you the best experience.",
+        "back_home": "Back to Home"
+    },
+    "nav": {
+        "home": "Home",
+        "home_news": "Latest News",
+        "home_events": "Next Event",
+        "home_sponsors": "Sponsors",
+        "institutional": "Institutional",
+        "inst_board": "Board of Directors",
+        "inst_vision": "Vision & Mission",
+        "inst_statutes": "Statutes",
+        "docs": "Documentation",
+        "docs_rules": "Competition Rules",
+        "docs_exams": "Exam Manual",
+        "docs_forms": "Registration Forms",
+        "contact": "Contact"
+    },
+    "hero": {
+        "slide1_title": "Passion & Discipline",
+        "slide1_subtitle": "CATIF ARGENTINA",
+        "slide2_title": "National Tournaments",
+        "slide2_subtitle": "High Level Competition",
+        "slide3_title": "Argentina National Team",
+        "slide3_subtitle": "Representing the country",
+        "cta": "About Us"
+    },
+    "quick_access": {
+        "calendar": "2026 Calendar",
+        "schools": "School Finder",
+        "results": "Results"
+    },
+    "next_event": {
+        "title": "Next Event"
+    },
+    "news_section": {
+        "title": "Latest News",
+        "view_all": "View All News",
+        "read_more": "READ MORE"
+    },
+    "news_items": {
+        "news_0": {
+            "title": "33rd Buenos Aires Provincial Championship: A Historic Event for ITF Argentina",
+            "content": "The city of Buenos Aires hosted the 33rd edition of the Buenos Aires Provincial Championship, an emblematic tournament that brought together schools and ITF Taekwon-Do competitors from all over the province in a celebration of skill, discipline, and unity.\n\nWith hundreds of competitors attending, the championship featured divisions for all age groups and ranks, from young beginners to experienced black belts. The event showcased the best of Argentine Taekwon-Do through dynamic performances in <strong>patterns (tul), sparring, power breaking, and special techniques</strong>.\n\nInstructors, students, families, and fans filled the venue with energy and enthusiasm, reflecting the deep roots and continuous growth of Taekwon-Do in the province. More than just a competition, the championship was a powerful reminder of the community spirit and values that define our martial art: <strong>Courtesy, Integrity, Perseverance, Self-Control, and Indomitable Spirit</strong>.\n\nThis 33rd edition also served as a key opportunity for athletes to prepare for upcoming national and international tournaments, reinforcing the level of excellence for which Buenos Aires is renowned.\n\nCongratulations to all participants and organizers for another successful championship that continues to raise the standard of Taekwon-Do in Argentina."
+        },
+        "news_1": {
+            "title": "Argentina Hosted an Unforgettable IIC 2025 with GM Choi Jung Hwa",
+            "content": "With more than 700 in-person participants and over 50 connected from different countries via webinar, the <strong>IIC-IUC-ICC 2025</strong> kicked off at the SETIA premises in Ezeiza, Buenos Aires. The opening day focused on a joint training proposal integrating technical and methodological aspects applicable to all three programs: IIC (International Instructor Course), IUC (International Umpire Course), and ICC (International Coach Course).\n\nThe first block featured the presence of <strong>Grand Master Choi Jung Hwa</strong>, President of the ITF, who joined Grand Masters Néstor Galarraga and José Maidana to dictate the initial technical content. The session aimed to unify execution and teaching criteria, reinforcing the technical bases that support the practice of ITF Taekwon-Do.\n\n<strong>Senior Master Marcelo Minguila</strong> also contributed to the day, presenting contents related to physical preparation and pedagogical planning, aligned with the challenges instructors face in their respective schools. The day concluded with a general practice session led by GMs Galarraga and Maidana, which helped establish shared technical elements for the following sessions.\n\n<strong>Second day: Saturday, May 10th</strong> The second day unfolded with a comprehensive agenda that explored various dimensions of ITF Taekwon-Do. The day began with a session led by Grand Masters Néstor Galarraga and José Maidana, together with Grand Master Choi Jung Hwa, focusing on detailed movement correction and its pedagogical application.\n\nNext, <strong>Senior Master Alberto Maidana and Master Héctor Avendaño</strong> gave a presentation on Competition Rules, addressing current umpiring and evaluation criteria to standardize rule interpretation in competitive environments.\n\n<strong>Grand Master Mario Troiano</strong> offered a conceptual talk on the evolution of Taekwon-Do, reflecting on the importance of understanding the past to shape the future of the discipline. Meanwhile, <strong>Grand Master Ebel Barat</strong> contributed his vision on the technical composition cycle, combining theoretical analysis with the practical application of general movement principles.\n\n<strong>Third day: Sunday, May 11th</strong> The final day was structured in blocks offering a mix of practical training, technical updates, and debates on the institutional role of Taekwon-Do. The morning began with a special class for <strong>Gup</strong> levels, led by <strong>Senior Master Gabriel Cova and Professor Gerardo Rocha</strong>, who conducted a joint training with the National Team.\n\nGrand Master Choi Jung Hwa continued with a presentation focused on historical principles, reaffirming the fundamental values of the discipline and its current relevance.\n\nAfter noon, the <strong>Gender and Management Commission</strong> presented <strong>Dr. Vilma Rosciszewski</strong>, who addressed the impact of the menstrual cycle on female athletic performance, coordinated by professors <strong>Sabrina Mai and Carla Savio</strong>. Subsequently, <strong>Grand Masters Alejandro Yapuncic and Noel Vidarte</strong> spoke on public management, institutional development, and sports leadership.\n\n<strong>Grand Master Horacio Boitano</strong> also contributed content on inclusive culture and adapted competition rules, reaffirming the organization's commitment to diversity. Before closing, <strong>Senior Master Marcelo Minguila</strong> taught a class on <strong>Hosin Sul (self-defense)</strong>. The event concluded with the delivery of certificates, marking the end of a seminar dedicated to continuing education and institutional growth."
+        },
+        "news_2": {
+            "title": "Argentine Taekwon-Do Pre-Selection",
+            "content": "National coaches <strong>Master Gabriel Cova, Master Marcelo Minguilla, and Professor Gerardo Rocha</strong> conducted a new training session aimed at forming the youth and adult teams, both male and female, that will represent us at the first <strong>ITF World Games Korea 2023</strong>.\n\nWork took place at the <strong>Lomas de Zamora Park</strong> facilities, with the presence of more than 60 competitors, consisting of patterns (tul), technical leveling exercises, and sparring.\n\nSoon, coaches will tour different regions of our country to continue evaluating athletes and finally form the teams. We remind you that this is the beginning of a process that will cover several international competitions: <strong>World Games 2023, South American 2023, Pan American 2024, European 2024, ending with the World Championship 2025</strong>."
+        }
+    },
+    "sponsors_section": {
+        "title": "Our Sponsors"
+    },
+    "institutional": {
+        "board_title": "Board of Directors",
+        "vision_title": "Our Philosophy",
+        "statutes_title": "Institutional Regulations",
+        "roles": {
+            "president": "President",
+            "secretary": "Secretary",
+            "pro_secretary": "Pro-Secretary",
+            "treasurer": "Treasurer",
+            "vocals_titular": "Titular Members",
+            "vocals_suplente": "Substitute Members",
+            "revisors_titular": "Account Auditors",
+            "revisors_suplente": "Substitute Auditor",
+            "director_sports": "Sports Director",
+            "director_circuit": "National Circuit Director",
+            "director_umpires": "Director of Umpires & Judges"
+        },
+        "vision_content": "ITF Taekwon-Do in Argentina, represented by CATIF, is based on building a legacy that transcends the physical. Our mission is to foster the integral development of practitioners through discipline, respect, and perseverance.\n\nWe firmly believe in the five tenets of Taekwon-Do: Courtesy, Integrity, Perseverance, Self-Control, and Indomitable Spirit. These are not just words to recite, but guides for daily life.\n\nOur vision is to be a leading organization promoting technical and human excellence, uniting schools across the country under a banner of camaraderie and professionalism, ensuring that General Choi Hong Hi's art is transmitted with purity and passion to future generations.",
+        "statutes_desc": "The Argentine Confederation of ITF Taekwon-Do is governed by clear statutes that guarantee transparency, order, and the correct functioning of all official activities and competitions.",
+        "download_btn": "Download Regulations PDF"
+    },
+    "documentation": {
+        "rules_title": "Competition Rules",
+        "rules_desc": "Access the current official regulations governing all national and provincial tournaments. It is the responsibility of each competitor and coach to know these rules.",
+        "rules_btn": "Download Current Rules",
+        "exams_title": "Exam Manual",
+        "exams_desc": "Complete guide with technical and theoretical requirements for each rank (Gup and Dan). Prepare for your next step on the Taekwon-Do path.",
+        "exams_btn": "Download Exam Syllabus",
+        "forms_title": "Registration Forms",
+        "forms_desc": "Necessary documentation for the affiliation of schools, instructors, and students to the Argentine Confederation.",
+        "forms_btn_school": "School Affiliation",
+        "forms_btn_student": "Student Registration"
+    },
+    "footer": {
+        "slogan": "Discipline, Respect, and Overcoming.",
+        "rights": "All rights reserved."
+    }
+}

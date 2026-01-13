@@ -1,0 +1,29 @@
+[
+    {
+        "id": 0,
+        "translationKey": "news_0",
+        "images": [
+            "/news/new0-1.png",
+            "/news/new0-2.png",
+            "/news/new0-3.png"
+        ]
+    },
+    {
+        "id": 1,
+        "translationKey": "news_1",
+        "images": [
+            "/news/new1-1.png",
+            "/news/new1-2.png",
+            "/news/new1-3.png"
+        ]
+    },
+    {
+        "id": 2,
+        "translationKey": "news_2",
+        "images": [
+            "/news/new2-1.png",
+            "/news/new2-2.png",
+            "/news/new2-3.png"
+        ]
+    }
+]
